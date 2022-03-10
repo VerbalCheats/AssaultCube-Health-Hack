@@ -1,0 +1,10 @@
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\bin\Debug\boredasfuck.exe.config
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\bin\Debug\boredasfuck.exe
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\bin\Debug\boredasfuck.pdb
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\bin\Debug\VAMemory.dll
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\obj\Debug\boredasfuck.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\obj\Debug\boredasfuck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\obj\Debug\boredasfuck.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\obj\Debug\boredasfuck.csproj.CopyComplete
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\obj\Debug\boredasfuck.exe
+C:\Users\Jack\source\repos\boredasfuck\boredasfuck\obj\Debug\boredasfuck.pdb
