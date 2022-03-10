@@ -1,2 +1,5 @@
 # AssaultCube-Health-Hack
-Basic Health Hack for AssaultCube made in C# using VAMemory.
+Health Hack Made In C# Using VAMemory.
+
+Decided to release the source as it is very VERY easy to make. 
+Hopefully people can learn VAMemory with C# off this. :D
